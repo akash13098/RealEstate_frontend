@@ -8,8 +8,8 @@ import ReviewCard from "@/components/ReviewCard";
 import propertiesData from "@/data/properties.json";
 import type { Property } from "@/types/property";
 import heroImg1 from "@/assets/hero-mumbai-12.jpg";
-import heroImg2 from "@/assets/abc.jpg";
-import heroImg3 from "@/assets/abcd.jpg";
+import heroImg2 from "@/assets/hero-mumbai-13.jpg";
+import heroImg3 from "@/assets/hero-mumbai-14.jpg";
 
 const heroImages = [heroImg1, heroImg2, heroImg3];
 
