@@ -7,7 +7,7 @@ import PropertyCard from "@/components/PropertyCard";
 import ReviewCard from "@/components/ReviewCard";
 import propertiesData from "@/data/properties.json";
 import type { Property } from "@/types/property";
-import heroImg1 from "@/assets/hero-mumbai-1.jpg";
+import heroImg1 from "@/assets/hero-mumbai-12.jpg";
 import heroImg2 from "@/assets/hero-mumbai-2.jpg";
 import heroImg3 from "@/assets/hero-mumbai-3.jpg";
 
